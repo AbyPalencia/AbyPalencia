@@ -1,8 +1,7 @@
 <html> 
-<h1 align="center">I'm Aby Palencia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1 align="center">I'm Aby Palencia <img src="https://giphy.com/stickers/bongo-cat-bongocat-oz45ELYgMoYVsZqmor" width="30"> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=1)](https://visitcount.itsvg.in)<br>
-<br>
+[![](https://visitcount.itsvg.in/api?id=AbyPalencia&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="center" heigth="150px">
   
@@ -15,6 +14,8 @@
 
 <div align="center">
 👋 Hello! I'm a Systems Engineering and Computer Science student 
+
+
 
 You can reach me here:<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/592891128114708490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickm32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_mejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/erick-mejia-a9657a230](https://www.linkedin.com/in/aby-noem%C3%AD-palencia-reyes-aa249a133/))
