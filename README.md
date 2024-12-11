@@ -1,5 +1,5 @@
 <html> 
-<h1 align="center">I'm Aby Palencia <img src="https://giphy.com/stickers/bongo-cat-bongocat-oz45ELYgMoYVsZqmor" width="30"> </h1>
+<h1 align="center">Hola soy Aby Palencia <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJyN3hxdGRkaTFmOHhmYWRqa2Q0Ymloc3VycWJpZ2h6ODJ2a2JmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif" width="30"> </h1>
 
 [![](https://visitcount.itsvg.in/api?id=AbyPalencia&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
@@ -9,20 +9,42 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=33&pause=1000&color=F76F2E&center=true&vCenter=true&width=592&height=43&lines=Ingenier%C3%ADa+en+Ciencias+y+Sistemas;Guatemala;Desarrollo+de+Software" alt="Typing SVG" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div >
+  <h2>Sobre mí</h2>
+  <p>
+    Soy una chica con pensum cerrado en Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala. 
+    Tengo una gran pasión por el desarrollo de frontend y disfruto trabajar con tecnologías como <strong>Angular</strong> y <strong>React</strong>. 
+    Siempre estoy buscando aprender cosas nuevas y expandir mis conocimientos.
+  </p>
+  
+  <h2>Lo que me motiva 🌟</h2>
+  <ul>
+    <li>💻 Desarrollar interfaces amigables y funcionales que marquen la diferencia.</li>
+    <li>🌱 Continuar aprendiendo y mejorando mis habilidades cada día.</li>
+    <li>🏃‍♀️ Los deportes, las aventuras y los viajes me llenan de energía.</li>
+    <li>🌍 Lograr un balance entre mis pasiones personales y mi carrera profesional.</li>
+  </ul>
+  
+  <h2>Mis habilidades técnicas 🔧</h2>
+  <ul>
+    <li><strong>Frontend:</strong> Angular, React, HTML, CSS, JavaScript, TypeScript</li>
+    <li><strong>Backend:</strong> Node.js, Express (en progreso)</li>
+    <li><strong>Herramientas:</strong> Git, Postman, Docker</li>
+  </ul>
+  
+  <h2>Objetivos</h2>
+  <p>
+    🎯 Seguir creciendo como desarrolladora, colaborar en proyectos que tengan impacto y disfrutar del viaje mientras hago lo que me apasiona.
+  </p>
 
-<div align="center">
-👋 Hello! I'm a Systems Engineering and Computer Science student 
 
 
-
-You can reach me here:<br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/592891128114708490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickm32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_mejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/erick-mejia-a9657a230](https://www.linkedin.com/in/aby-noem%C3%AD-palencia-reyes-aa249a133/))
-</div>
       
 <h1>💻 My Skills:</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div align="center">  
 <h3>Programming languages:</h3>
 
@@ -74,20 +96,11 @@ You can reach me here:<br>
 
 <h3>GitHub Stats:</h3>
 
+Redes:<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/592891128114708490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abypalencia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_mejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/erick-mejia-a9657a230](https://www.linkedin.com/in/aby-noem%C3%AD-palencia-reyes-aa249a133/))
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickm13&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-<!--
-**AbyPalencia/AbyPalencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
